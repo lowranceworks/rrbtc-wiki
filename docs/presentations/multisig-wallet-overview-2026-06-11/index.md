@@ -405,6 +405,10 @@ Before you need to.
 - Biannual or annual checkups at minimum
 - Verify physical possession, not just a "yeah I think so"
 
+**Hand each key holder a written copy of the [Bitcoin Key Holder Instructions](/concepts/bitcoin-key-holder-instructions).**
+
+**For inheritance planning, see the [Bitcoin Inheritance Guide](/concepts/bitcoin-inheritance-guide).**
+
 ---
 
 ## Recommended Cold Storage Wallets for MultiSig
